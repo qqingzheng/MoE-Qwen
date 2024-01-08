@@ -32,6 +32,6 @@ This is a MoE model project constructed based on the Qwen model.
 
 # License Agreement
 
-This project is open source under the Tongyi Qianwen Research License Agreement. You can view the complete license agreement in this link: (LICENSE)[https://github.com/QwenLM/Qwen/blob/main/Tongyi%20Qianwen%20RESEARCH%20LICENSE%20AGREEMENT].
+This project is open source under the Tongyi Qianwen Research License Agreement. You can view the complete license agreement in this link: [LICENSE](https://github.com/QwenLM/Qwen/blob/main/Tongyi%20Qianwen%20RESEARCH%20LICENSE%20AGREEMENT).
 
 During the use of this project, please ensure that your usage behavior complies with the terms and conditions of the license agreement.

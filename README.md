@@ -8,7 +8,7 @@ This is a MoE model project constructed based on the Qwen model.
 
 **18000 steps (Continue Pretraining)**
 
-[cpkt download](https://huggingface.co/chestnutlzj/Qwen-4x1.8B-pretrain-18000-ckpt)
+[cpkt download](https://huggingface.co/chestnutlzj/MoE-Qwen-4x1.8B-pretrain-18000-ckpt)
 
 |  Groups   | Metric |Value |   |Stderr|
 |-----------|--------|-----:|---|-----:|
